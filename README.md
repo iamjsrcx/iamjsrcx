@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John Sebastian</h1>
-<h3 align="center">A passionate Funnel Builder and Frontend Developer from Colombia</h3>
+<h3 align="center">A passionate for Frontend Development from Colombia</h3>
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, Python, Bootstrap, Angular, Laravel, C#, C++, etc.**
 
